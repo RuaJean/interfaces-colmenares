@@ -34,12 +34,6 @@ Este frontend consume las APIs proporcionadas por el backend del sistema, facili
 - **Autenticación**: JWT para gestionar sesiones y permisos de usuario
 - **Control de Versiones**: Git y GitHub
 
-## 📂 Estructura del Proyecto
-
-colmenares-frontend/ │ ├── src/ │ ├── app/ │ │ ├── admin/ # Módulo de Administración │ │ ├── abogados/ # Módulo para Abogados │ │ ├── clientes/ # Módulo para Clientes │ │ ├── services/ # Servicios para APIs y autenticación │ │ ├── guards/ # Guards para protección de rutas │ │ └── shared/ # Componentes y utilidades compartidas │ │ │ ├── assets/ │ ├── environments/ │ └── styles/ │ ├── angular.json ├── package.json └── README.md
-
- 
- 
 
 ## 🚀 Instalación
 
