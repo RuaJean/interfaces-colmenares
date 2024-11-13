@@ -45,8 +45,8 @@ colmenares-frontend/ │ ├── src/ │ ├── app/ │ │ ├── adm
 
 1. Clona el repositorio y navega a la carpeta del proyecto:
    ``` 
-   git clone https://github.com/jeanrua/colmenares-frontend.git
-   cd colmenares-frontend
+   git clone https://github.com/jeanrua/interfaces-colmenares.git
+   cd interfaces-colmenares
 Instala las dependencias:
 
  
